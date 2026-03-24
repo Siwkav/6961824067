@@ -12,8 +12,8 @@ local SaveManager = loadstring(game:HttpGet(r .. "addons/SaveManager.lua"))()
         Icon = 102816031861909,
     })
 
-local Main = Window:AddTab({
-    Name = "Main",
+local Credit = Window:AddTab({
+    Name = "Credit",
     Description = "Main",
     Icon = "house"
 })
@@ -27,8 +27,28 @@ local Defence = Window:AddTab({
 -- https://youtu.be/dQw4w9WgXcQ?si=AYWHp5vvOV25MflT
 -- https://youtu.be/dQw4w9WgXcQ?si=AYWHp5vvOV25MflT
 
-local Main = Main:AddLeftGroupbox("Credit", "book-search")
-Main:AddLabel("Made By: wftap")
+local Credit = Credit:AddLeftGroupbox("Credit", "book-search")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
+Credit:AddLabel("Made By: wftap")
 
 -- https://youtu.be/dQw4w9WgXcQ?si=AYWHp5vvOV25MflT
 -- https://youtu.be/dQw4w9WgXcQ?si=AYWHp5vvOV25MflT
